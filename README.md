@@ -16,5 +16,5 @@ a * b / GCF of a and b
 ```
 Example of input
 
-[Input:](https://github.com/JoshuaEstrada329/CommonFactors/blob/master/FactorsInput.PNG)
-[Output:](https://github.com/JoshuaEstrada329/CommonFactors/blob/master/FactorsOutput.PNG)
+[Input:](https://joshuaestrada329.github.io/CommonFactors/FactorsInput.PNG)
+[Output:](https://joshuaestrada329.github.io/CommonFactors/FactorsOutput.PNG)
