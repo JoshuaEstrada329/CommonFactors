@@ -14,8 +14,7 @@ Least Common Factor:
 given a and b are two numbers
 a * b / GCF of a and b
 ```
-Example of input:
+Here are examples of input and output of the program:
 
 ![Input:](https://joshuaestrada329.github.io/CommonFactors/FactorsInput.PNG)
-Example of output:
 ![Output:](https://joshuaestrada329.github.io/CommonFactors/FactorsOutput.PNG)
